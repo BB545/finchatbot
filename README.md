@@ -9,6 +9,8 @@
 + [진행 기간] : 2023.09 ~ 2023.12
 + [개발 인원] : 3인 (본인 포함)
 + [개발 환경] :
+
+  
   ![개발 환경 이미지](https://github.com/BB545/finchatbot/blob/main/devenv.png)
 
 
